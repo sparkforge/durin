@@ -1,6 +1,10 @@
 {
   "name": "@sparkforge/durin",
   "version": "0.1.0",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
   "description": "Speak friend and enter: A lightweight TypeScript-based permissions guardian for React applications. Simple as the doors of Moria, strong as mithril. 🚪✨",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
