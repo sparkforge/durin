@@ -18,11 +18,11 @@
 ## Installation
 
 ```bash
-npm install durin
+npm install @sparkforge/durin
 # or
-yarn add durin
+yarn add @sparkforge/durin
 # or
-pnpm add durin
+pnpm add @sparkforge/durin
 ```
 
 ## Quick Start
